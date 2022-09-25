@@ -1,0 +1,1 @@
+No it is not possible to link the family members as elements because it will require a tree to link the family members not through a doubly linked list.
